@@ -2,7 +2,7 @@ const secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20; 
 let highScore = 0;
 
-//document.message is used over and over again so just call a function so thta we can resuse it
+//document.message is used over and over again so just call a function so that we can reuse it
 
 const displayMessage= function(message){
     document.querySelector('.message').textContent = message;

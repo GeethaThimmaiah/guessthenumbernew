@@ -1,25 +1,7 @@
 {
     "name": "Guess the number",
     "short_name": "game",
-    "gues": [
-      {
-        "src": "./assets/guess.png",
-        "sizes": "192x192",
-        "type": "image/png",
-        "purpose": "any maskable"
-      },
-      {
-        "src": "./assets/guess1.png",
-        "sizes": "384x384",
-        "type": "image/png"
-      },
-      {
-        "src": "./assets/guess2.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ],
-  
+    
     "theme_color": "#FFFFFF",
     "background_color": "#FFFFFF",
     "start_url": " ",
